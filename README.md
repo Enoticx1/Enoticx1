@@ -27,7 +27,7 @@ Some of the projects I've developed or worked on:
 ### Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,py,html,css,arduino,visualstudio,vscode,windows" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,arduino,visualstudio,vscode,windows" />
 </p>
 
 ---
