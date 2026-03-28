@@ -36,7 +36,7 @@ Some of the projects I've developed or worked on:
 
 - Kernel Development  
 - Reverse Engineering  
-- Experimental Projects
+- Game Hacking
 
 ---
 
