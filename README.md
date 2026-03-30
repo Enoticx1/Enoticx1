@@ -39,8 +39,9 @@ Some of the projects I've developed or worked on:
 
 ---
 
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Enoticx1&show_icons=true&theme=dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoticx1&layout=compact&theme=dark&hide_border=true" /> </p>
+### Stats
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enoticx1&theme=react&line_height=50&hide=css"/> </a>
+<img src="https://komarev.com/ghpvc/?username=Enoticx1&label=Visitors&color=351c75" alt="Enoticx" />
 
 ---
 
@@ -48,4 +49,4 @@ GitHub Stats
 
 - Kernel Development  
 - Reverse Engineering  
-- Game Hacking
+- Game Hacking         
