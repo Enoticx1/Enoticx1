@@ -36,7 +36,7 @@ Contact
 ---
 
 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Enoticx&show_icons=true&theme=dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoticx&layout=compact&theme=dark&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Enoticx1&show_icons=true&theme=dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoticx1&layout=compact&theme=dark&hide_border=true" /> </p>
 
 ### Areas of Interest
 
