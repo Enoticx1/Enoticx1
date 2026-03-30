@@ -30,7 +30,13 @@ Some of the projects I've developed or worked on:
 <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,arduino,visualstudio,vscode,windows" />
 </p>
 
+Contact
+<p align="center"> [![Discord](https://img.shields.io/badge/Discord-enoticx-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/enoticx) </p>
+
 ---
+
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Enoticx&show_icons=true&theme=dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoticx&layout=compact&theme=dark&hide_border=true" /> </p>
 
 ### Areas of Interest
 
