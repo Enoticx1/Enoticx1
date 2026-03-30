@@ -31,7 +31,7 @@ Some of the projects I've developed or worked on:
 </p>
 
 Contact
-<p align="center"> [![Discord](https://img.shields.io/badge/Discord-enoticx-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/enoticx) </p>
+<p align="center"> [https://img.shields.io/badge/Discord-enoticx-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/enoticx) </p>
 
 ---
 
