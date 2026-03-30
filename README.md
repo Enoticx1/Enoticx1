@@ -41,6 +41,7 @@ Some of the projects I've developed or worked on:
 
 ### Stats
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enoticx1&theme=react&line_height=50&hide=css"/> </a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=Enoticx1&label=Visitors&color=351c75" alt="Enoticx" />
 
 ---
