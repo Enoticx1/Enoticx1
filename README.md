@@ -32,7 +32,7 @@ Some of the projects I've developed or worked on:
 
 Contact
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,arduino,visualstudio,vscode,windows" />
+  <img src="https://img.shields.io/badge/Discord-enoticx-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 ---
 
