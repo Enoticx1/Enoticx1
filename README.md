@@ -20,6 +20,7 @@ C++ Developer | Game Hacking | Reverse Engineering
 Some of the projects I've developed or worked on:
 
 • ProtocolService  
+• Illusionary  
 • NexusHub  
 
 ---
