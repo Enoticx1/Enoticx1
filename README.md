@@ -60,7 +60,7 @@ Some of the projects I've developed:
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enoticx1&theme=react&line_height=50&hide=css"/> </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Enoticx1&label=Visitors&color=351c75" alt="Enoticx" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enoticx1&theme=tokyo-night&hide_border=true"/>
 
 ---
 
