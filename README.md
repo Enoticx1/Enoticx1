@@ -1,18 +1,24 @@
-<h1 align="center">Hey, I'm Enoticx</h1>
-<p align="center">
-  
-### C++ Developer | Game Hacking | Reverse Engineering
-<br><br>
+<div align="center">
+
+# Hey, I'm Enoticx
+
+<h3>C++ Developer | Game Hacking | Reverse Engineering</h3>
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Reverse+Engineer;Low-Level+Programming;Game+Hacking" />
+
 <br><br>
+
 <img src="https://komarev.com/ghpvc/?username=Enoticx1&style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/github/followers/Enoticx1?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/stars/Enoticx1?style=for-the-badge&logo=github" />
-</p>
+
+</div>
 
 ---
 
-### About Me
+## About Me
 
 • developer focused on **C++ and game hacking**  
 • Interested in **C++, C#, python, reverse engineering, and low-level programming**  
