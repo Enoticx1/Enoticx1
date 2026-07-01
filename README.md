@@ -30,11 +30,14 @@
 
 ## My Projects
 
-Some of the projects I've developed or worked on:
+Some of the projects I've developed:
 
-• ProtocolService  
-• Illusionary  
-• IllusionaryHub  
+| Project | Description |
+|--------|-------------|
+| **Protocol** | Advanced external framework for FiveM (C++) |
+| **Securify** | Authentication & security system (Key/Auth protection) |
+| **Illusionary** | Advanced external tool for Roblox (C++) |
+| **IllusionaryHub** | Luau script hub for Roblox |
 
 ---
 
