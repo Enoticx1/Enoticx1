@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Enoticx</h1>
 <p align="center">
-C++ Developer | Game Hacking | Reverse Engineering
+  
+### C++ Developer | Game Hacking | Reverse Engineering
+<br><br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Reverse+Engineer;Low-Level+Programming;Game+Hacking" />
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Enoticx1&style=for-the-badge&color=blue" />
